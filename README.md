@@ -119,6 +119,9 @@ Part of the [tiny-* stack](https://github.com/hussain-alsaibai):
 | MCP | [tiny-mcp](https://github.com/hussain-alsaibai/tiny-mcp) |
 | Embeddings | [tiny-embed](https://github.com/hussain-alsaibai/tiny-embed) |
 | Storage | [snapdb](https://github.com/hussain-alsaibai/snapdb) |
+| Cron | [tiny-cron](https://github.com/hussain-alsaibai/tiny-cron) |
+| Flags | [tiny-flags](https://github.com/hussain-alsaibai/tiny-flags) |
+| Queue | [tiny-queue](https://github.com/hussain-alsaibai/tiny-queue) |
 
 ## License
 
