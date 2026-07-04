@@ -126,3 +126,9 @@ Part of the [tiny-* stack](https://github.com/hussain-alsaibai):
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Today's siblings
+
+- [`tiny-metrics`](https://github.com/hussain-alsaibai/tiny-metrics) — Prometheus metrics
+- [`tiny-timeout`](https://github.com/hussain-alsaibai/tiny-timeout) — timeouts that work
+- [`tiny-idempotency`](https://github.com/hussain-alsaibai/tiny-idempotency) — idempotency keys
